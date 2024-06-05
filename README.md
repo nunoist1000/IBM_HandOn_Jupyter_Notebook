@@ -1,2 +1,2 @@
-# IBM_HandOn_Jupyter_Notebook
+# Coursera DataScienceEcosystem
 Hands-on Lab: Create your Jupyter Notebook
